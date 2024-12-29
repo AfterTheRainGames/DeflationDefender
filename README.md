@@ -1,2 +1,2 @@
 # DeflationDefender
-Deflation Defender was my submission for the **Defense** themed game jam that ran December20th-22nd 2014
+Deflation Defender was my submission for the **DEFENSE** themed game jam that ran December 20th-22nd 2024. This game jam also used the limitation **Only 1 Resouce**. My inital thought when I heard the theme was a tower defense style game, but I wanted to put a spin on the classic genre. I then decided to have the player play as the reverse role (in this case a balloon based on Bloons Tower Defense)
