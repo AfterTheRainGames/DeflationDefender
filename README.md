@@ -61,4 +61,4 @@ Deflation Defender challenged me to adapt my skills to a 2D environment while le
 ---
 
 ## Play the Game  
-[Play Deflation Defender on Itch.io](#)  
+[Play Deflation Defender on Itch.io](https://aftertheraingames.itch.io/deflation-defender)  
