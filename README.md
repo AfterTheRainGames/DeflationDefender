@@ -9,29 +9,29 @@
 
 ## Key Contributions as a Gameplay Engineer  
 
-**Concept Development**  
+### **Concept Development**  
   - Reversed the traditional tower defense roles, allowing players to play as balloons with a shield, incorporating the "Only 1 Resource" limitation.  
 
-**Pathfinding and Movement**  
+### **Pathfinding and Movement**  
   - Developed a 2D pathing system using OnTriggerEnter events to manage turns.  
   - Implemented a bool-based system for continuous rotation, ensuring smooth transitions around corners.  
 
-**Shield Mechanics**  
+### **Shield Mechanics**  
   - Coded shield movement tied to mouse input, enabling dynamic projectile blocking.  
 
-**Tower and Projectile Logic**  
+### **Tower and Projectile Logic**  
   - Created turret prefabs with randomized fire rates.  
   - Programmed projectiles to track the player's real-time position and added responsive collision systems for damage and blocking.  
 
-**Level Design**  
+### **Level Design**  
   - Designed two thematic levels (grass and winter) using Unity's tile snapping tools and asset packs.  
   - Utilized prefab-based design to streamline multi-level creation.  
 
-**UI and Audio**  
+### **UI and Audio**  
   - Built a dynamic main menu and level select interface.  
   - Integrated sound effects for player interactions and background music to enhance immersion.  
 
-**Build Optimization**  
+### **Build Optimization**  
   - Fixed aspect ratio and scaling issues for consistent gameplay across window sizes.  
 
 ---
