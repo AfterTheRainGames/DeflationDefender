@@ -52,7 +52,7 @@ Deflation Defender flips the tower defense genre on its head by letting the play
 
 ### **Bullet-Spawning Collisions**  
   - **Issue**: Turret bullets collided with other towers upon spawning.  
-  - **Solution**: Removed tower colliders to prevent premature destruction of bullets.  
+    - **Solution**: Removed tower colliders to prevent premature destruction of bullets.  
 
 ---
 
