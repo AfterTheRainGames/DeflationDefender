@@ -3,7 +3,7 @@
 *DEFENSE Theme | Limitation: Only 1 Resource | December 20-22, 2024*
 
 ## Overview  
-Deflation Defender flips the tower defense genre on its head by letting the player embody the balloons instead of the towers. As a balloon with a protective shield, you navigate a 3D-styled 2D track while evading tower attacks.  
+**Deflation Defender** flips the tower defense genre on its head by letting the player embody the balloons instead of the towers. As a balloon with a protective shield, you navigate a 3D-styled 2D track while evading tower attacks.  
 
 ---
 
