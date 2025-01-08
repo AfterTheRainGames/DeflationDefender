@@ -40,15 +40,15 @@ Deflation Defender flips the tower defense genre on its head by letting the play
 
 ### **Turning at Path Bends**  
   - **Issue**: Player began turning correctly but never stopped due to incomplete OnTriggerEnter logic.  
-  - **Solution**: Introduced a bool (isTurning) to manage continuous rotation in Update, toggled by triggers.  
+    - **Solution**: Introduced a bool (isTurning) to manage continuous rotation in Update, toggled by triggers.  
 
 ### **Projectile Tracking**  
   - **Issue**: Bullets targeted the player's spawn point instead of their updated position.  
-  - **Solution**: Used GameObject.FindByName to dynamically track the player's current location.  
+    - **Solution**: Used GameObject.FindByName to dynamically track the player's current location.  
 
 ### **Window Scaling**  
   - **Issue**: Resizing the game window revealed off-screen elements like spawn points.  
-  - **Solution**: Fixed the camera aspect ratio to 16:9 and configured scaling for consistent visuals.  
+    - **Solution**: Fixed the camera aspect ratio to 16:9 and configured scaling for consistent visuals.  
 
 ### **Bullet-Spawning Collisions**  
   - **Issue**: Turret bullets collided with other towers upon spawning.  
