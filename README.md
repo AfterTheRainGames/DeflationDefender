@@ -12,8 +12,8 @@ Deflation Defender flips the tower defense genre on its head by letting the play
   - Reversed the traditional tower defense roles, allowing players to play as balloons with a shield, incorporating the "Only 1 Resource" limitation.  
 
 - **Pathfinding and Movement**  
-  - Developed a 2D pathing system using `OnTriggerEnter` events to manage turns.  
-  - Implemented a `bool`-based system for continuous rotation, ensuring smooth transitions around corners.  
+  - Developed a 2D pathing system using OnTriggerEnter events to manage turns.  
+  - Implemented a bool-based system for continuous rotation, ensuring smooth transitions around corners.  
 
 - **Shield Mechanics**  
   - Coded shield movement tied to mouse input, enabling dynamic projectile blocking.  
@@ -38,12 +38,12 @@ Deflation Defender flips the tower defense genre on its head by letting the play
 ## Challenges Overcome  
 
 - **Turning at Path Bends**  
-  - **Issue**: Player began turning correctly but never stopped due to incomplete `OnTriggerEnter` logic.  
-  - **Solution**: Introduced a `bool` (`isTurning`) to manage continuous rotation in `Update`, toggled by triggers.  
+  - **Issue**: Player began turning correctly but never stopped due to incomplete OnTriggerEnter logic.  
+  - **Solution**: Introduced a bool (isTurning) to manage continuous rotation in Update, toggled by triggers.  
 
 - **Projectile Tracking**  
   - **Issue**: Bullets targeted the player's spawn point instead of their updated position.  
-  - **Solution**: Used `GameObject.FindByName` to dynamically track the player's current location.  
+  - **Solution**: Used GameObject.FindByName to dynamically track the player's current location.  
 
 - **Window Scaling**  
   - **Issue**: Resizing the game window revealed off-screen elements like spawn points.  
@@ -56,7 +56,7 @@ Deflation Defender flips the tower defense genre on its head by letting the play
 ---
 
 ## Reflection  
-Deflation Defender challenged me to adapt my skills to a 2D environment while leveraging 3D assets and solving nuanced gameplay issues, such as turning mechanics and real-time player tracking. The result was a unique take on tower defense, showcasing creativity and technical proficiency under time constraints.  
+Deflation Defender challenged me to adapt my skills to a 2D environment while implimenting gameplay mechanics such as prefab instantiations and real-time player tracking. The result was a unique take on tower defense, showcasing creativity and technical proficiency under time constraints.  
 
 ---
 
