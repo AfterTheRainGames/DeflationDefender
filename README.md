@@ -7,7 +7,7 @@
 
 ---
 
-## Key Contributions as a Gameplay Engineer  
+## Key Contributions as a Gameplay Programmer
 
 ### **Concept Development**  
   - Reversed the traditional tower defense roles, allowing players to play as balloons with a shield, incorporating the "Only 1 Resource" limitation.  
